@@ -3,7 +3,7 @@ My name is Daniel, i'm currently working on [BolsoBot](https://github.com/Daniel
 # About me
 * I'm learning C#
 * I love listening to music
-* My Discord user is 𝑫𝑨𝑵𝑰𝑬𝑳#7771
+* My Discord user is `𝑫𝑨𝑵𝑰𝑬𝑳#7771`.
 * I use Arch btw
 # My stats
 <div align="center">
