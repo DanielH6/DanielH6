@@ -4,7 +4,7 @@ My name is Daniel, i'm currently working on [BolsoBot](https://github.com/Daniel
 * I'm learning C#
 * I love listening to music
 * My Discord user is `𝑫𝑨𝑵𝑰𝑬𝑳#7771`.
-* I use Arch btw
+* I use Fedora btw
 # My stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielH6&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
